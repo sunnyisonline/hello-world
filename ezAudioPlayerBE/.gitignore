@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/bin/
+/application.properties
+/log4j.properties
